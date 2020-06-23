@@ -32,11 +32,13 @@ numas
 eu
 tu
 você
+voce
 ele
 ela
 nós
 vós
 vocês
+voces
 eles
 elas
 me
@@ -127,9 +129,13 @@ certa
 certos
 certas
 vário
+vario
 vária
+varia
 vários
+varios
 várias
+varias
 tanto
 tanta
 tantos
@@ -143,7 +149,9 @@ quaisquer
 qual
 quais
 alguém
+alguem
 ninguém
+ninguem
 tudo
 nada
 outrem
